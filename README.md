@@ -6,7 +6,8 @@ Bienvenue sur mon portfolio ! Je suis **Développeuse Web Full Stack** spéciali
 [💻 Voir mon portfolio en ligne](https://mamediarratech.great-site.net/) 
 
 ## 🛠️ Technologies utilisées  
-- Vue.js  
+-HTML/CSS
+-JavaScript
 - Laravel  
 - MySQL   
 
